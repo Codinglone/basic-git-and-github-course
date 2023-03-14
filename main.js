@@ -1,5 +1,3 @@
 const name = "Fabrice"
 
-const sleep = () => {
-    return 'Sleeping';
-}
+const age = 50
